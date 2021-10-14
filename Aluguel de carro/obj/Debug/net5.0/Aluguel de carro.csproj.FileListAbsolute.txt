@@ -1,0 +1,16 @@
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.csproj.AssemblyReference.cache
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.AssemblyInfoInputs.cache
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.AssemblyInfo.cs
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\Aluguel de carro.exe
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\Aluguel de carro.deps.json
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\Aluguel de carro.runtimeconfig.json
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\Aluguel de carro.runtimeconfig.dev.json
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\Aluguel de carro.dll
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\ref\Aluguel de carro.dll
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\bin\Debug\net5.0\Aluguel de carro.pdb
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.dll
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\ref\Aluguel de carro.dll
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.pdb
+C:\Curso Udemy\Aluguel de Carro\Exercico aluguel de carro\Aluguel de carro\Aluguel de carro\obj\Debug\net5.0\Aluguel de carro.genruntimeconfig.cache
