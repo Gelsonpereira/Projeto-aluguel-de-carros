@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using Aluguel_de_carro.Entities;
+using Aluguel_de_carro.Service;
 using Aluguel_de_carro.Services;
 
 namespace Aluguel_de_carro
@@ -25,7 +26,7 @@ namespace Aluguel_de_carro
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(modelo));
 
-            RentalService rentalservice = new RentalService(hour, day);
+            RentalService rentalservice = new RentalService(hour, day, new BrazilTaxService());
 
             rentalservice.ProcessInvoice(carRental);
 
