@@ -1,9 +1,10 @@
 ﻿using System;
 using Aluguel_de_carro.Entities;
+using Aluguel_de_carro.Services;
 
 namespace Aluguel_de_carro.Service
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService 
     {
         public double Tax(double amout)
         {
